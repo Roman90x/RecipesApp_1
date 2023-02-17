@@ -18,5 +18,4 @@ public class FirstController {
                 "Описание проекта: Проект создан для работ с рецептами блюд, с использованием Spring Boot DevTools, Lombok, Spring Web. " +
                 "Написан на языке Java (v.19)";
     }
-
 }
